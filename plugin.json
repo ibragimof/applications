@@ -1,0 +1,11 @@
+{
+    "id": "quinton/applications",
+    "name": "Applications",
+    "namespace": "Quinton\\Applications\\",
+    "provider": "Quinton\\Applications\\Providers\\ApplicationsServiceProvider",
+    "author": "Quition Jr",
+    "url": "",
+    "version": "1.0.0",
+    "description": "",
+    "minimum_core_version": "7.4.0"
+}
